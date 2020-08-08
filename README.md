@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -77,3 +78,27 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+
+<h2><strong>Simply Laravel Application with Multiple Authentication</strong></h2>
+
+Laravel application with admin guard. You can even use this application for your projects if you need multiple guards.
+
+
+<h3>Getting this application up and running</h3>
+
+* Clone this repository to your local machine or just download the zip from the above green button.
+* Install Composer first, then run this command in your command-line (you should be inside your project directory).
+<pre>composer install</pre>
+* Rename .env.example to .env and add your database
+* Generate application key.
+<pre>php artisan key:generate</pre>
+* Migration table
+<pre>php artisan migrate</pre>
+* Start the development server.
+<pre>php artisan serve</pre>
+
+yeah here you go
+
+
+>>>>>>> 8d3cb664ab7b560b29f040946d27a5ab95ae2810
