@@ -1,6 +1,6 @@
 
 <h2><strong>Simply Laravel Application with Multiple Authentication</strong></h2>
-----------------------------------------------------------------------------------
+
 Laravel application with admin guard. You can even use this application for your projects if you need multiple guards.
 
 
