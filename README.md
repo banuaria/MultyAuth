@@ -6,6 +6,8 @@ Laravel application with admin guard. You can even use this application for your
 
 <h3>Getting this application up and running</h3>
 ---
+* Milk
+
 * Clone this repository to your local machine or just download the zip from the above green button.
 * Install Composer first, then run this command in your command-line (you should be inside your project directory).
 <pre>composer install</pre>
